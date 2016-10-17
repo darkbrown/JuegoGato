@@ -37,8 +37,8 @@ public class Principal extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JButton btnNewButton = new JButton("ñjdfdsdfs");
-		btnNewButton.setBounds(144, 172, 89, 23);
+		JButton btnNewButton = new JButton("");
+		btnNewButton.setBounds(164, 59, 89, 23);
 	
 		contentPane.add(btnNewButton);
 	}
